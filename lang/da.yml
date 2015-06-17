@@ -12,18 +12,18 @@ da:
     Oct: Okt
     Nov: Nov
     Dec: Dec
-    January: Januar
-    February: Februar
-    March: Marts
-    April: April
-    May: Maj
-    June: Juni
-    July: Juli
-    August: August
-    September: September
-    October: Oktober
-    November: November
-    December: December
+    January: januar
+    February: februar
+    March: marts
+    April: april
+    May: maj
+    June: juni
+    July: juli
+    August: august
+    September: september
+    October: oktober
+    November: november
+    December: december
     Mon: Man
     Tue: Tir
     Wed: Ons
@@ -51,8 +51,9 @@ da:
     Long: 'j F Y'
     Full: 'j M Y'
   LocalDatetimeFormat:
-    Nice: 'd-m-Y g:ia'
-    Nice24: 'd-m-Y H:i'
-    Date: 'd-m-Y'
+    Nice: 'j. F Y g:ia'
+    Nice24: 'j. F Y, H:i'
+    Date: 'j. F Y'
     Time: 'g:ia'
     Time24: 'H:i'
+
